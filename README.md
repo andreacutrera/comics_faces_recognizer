@@ -1,9 +1,9 @@
 # comics_faces_recognizer
 ## Project for the module Algorithms for Massive Data
 
-If you want to **execute the code directly on Google Colab**, follow the link: [GoogleColab file here](https://colab.research.google.com/drive/1jq5545Y0aVq2wzzqRnxvFHTeUk-9AM3q?usp=sharing)
+- If you want to **execute the code directly on Google Colab**, follow the link: [GoogleColab file here](https://colab.research.google.com/drive/1jq5545Y0aVq2wzzqRnxvFHTeUk-9AM3q?usp=sharing)
 
-If instead you want **to run locally** the project you can follow the following instructions:
+- If instead you want **to run locally** the project you can follow the following instructions:
 
 In this folder you can find ```3 scripts``` which are below described:
 1. ```data_downloading.ipynb``` to be executed as first, it will make you download the images from Kaggle through the Kaggle's API;
