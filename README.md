@@ -1,6 +1,8 @@
 # comics_faces_recognizer
 ## Project for the module Algorithms for Massive Data
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jq5545Y0aVq2wzzqRnxvFHTeUk-9AM3q?usp=sharing)
+
 - If you want to **execute the code directly on Google Colab**, follow the link: [GoogleColab file here](https://colab.research.google.com/drive/1jq5545Y0aVq2wzzqRnxvFHTeUk-9AM3q?usp=sharing)
 
 - If instead you want **to run locally** the project you can follow the following instructions:
