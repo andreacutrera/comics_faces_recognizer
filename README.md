@@ -12,4 +12,4 @@ In this folder you can find ```3 scripts``` which are below described:
 2. ```prepocessing_and_modelling.ipynb``` in which you can perform the pre-processing of the data, manipulate them a bit for a complete data understanding; here I also tried to make up some models exploring the performance of different neural networks;
 3. ```model_selection.ipynb``` for the final model selection through an hyperparameters tuning.
 
-[📄 View PDF: Comics and Faces Recognizer](comic_faces_recognizer.pdf)
+[📄 View PDF: Comics and Faces Recognizer]([comic_faces_recognizer.pdf](https://drive.google.com/file/d/1esW0KvqBPHMc2_T_EkS8hEdrDZ039ItL/view?usp=sharing))
